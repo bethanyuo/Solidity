@@ -33,7 +33,7 @@ remixd -s /Users/Bethany/git/solidity --remix-ide package://a7df6d3c223593f3550b
 ```
 Now the remixd will point to your local remix IDE rather than the online IDE.
 
-### Reason 
+### Purpose 
 So that you can create a repo in your own github account, clone it to your local file system, and then hookup your local remix IDE to use your local github repo. This will allow you to check in code to github.
 Unfortunately, it doesn't seem to be possible to create new files in the localhost of the FILE EXPLORERS section of the remix IDE. So I used the Visual Studio Code IDE in conjuction with the remix IDE, so that I can create and edit files locally in the VSC IDE, and then compile and deploy in the remix IDE.
 
