@@ -1,6 +1,18 @@
 # Solidity Contracts
 Solidity exercises from Kingsland.
 
+## Table of Contents
+* [Simple Storage Contract](#simple-storage-contract)
+* [Incrementor Contract](#incrementor-contract)
+* [Previous Invoker](#previous-invoker)
+* [Registry of Certificates](#registry-of-certificates)
+* [Simple Token](#simple-token)
+* [The Diary](#the-diary)
+* [Planet Earth Contract](#planet-earth-contract)
+* [Students Info Tracker](#students-info-tracker)
+* [Lambo Crowdsale](#lambo-crowdsale)
+* [Solidity and Remix](#solidity-and-remix)
+
 ## Simple Storage Contract
 Write a simple contract in Solidity that keeps in the blockchain an integer variable and provides public functions to read it and to change it. 
 
@@ -96,7 +108,7 @@ Write a Solidity contract that has a function through which anyone can send it e
   *	Hint -> suicide(owner)
 Use modifiers where it is appropriate. Add appropriate events for the functions. Test and play around with the contract.
 
-# Solidity
+# Solidity and Remix
 Installing the remix IDE on iMac for using your own GitHub repo. Make sure that you have the full developer version of Xcode.app installed. As a precaution, go to the app store and install it regardless. Follow the instructions. The goal is to get the remixd installed, but it needs the Xcode developer installed to do that.
 
 ## Website Resources
